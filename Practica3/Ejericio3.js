@@ -1,7 +1,9 @@
- pract4
-let numeroA = parseInt ( prompt ("ingrese un numero")); 
-let numeroB = parseInt (prompt("ingrese un numero"));
-let numeroC = parseInt (prompt("ingrese un numero"));
+let numeroA = prompt ("ingrese un numero");
+parseInt(numeroA)
+let numeroB = prompt ("Ingrese otro numero");
+parseInt(numeroB)
+let numeroC = prompt ("Ingrese otro numero");
+parseInt(numeroC)
 
 if (numeroA == numeroB && numeroA == numeroC)
 {
@@ -20,4 +22,15 @@ document.writeln ("LOS 3 NUMEROS SON IGUALES");
     {
         document.writeln("LOS NUMEROS SON DIFERENTES, EL MAYOR ES ESTE:" + numeroC)
     }
- master
+
+
+
+
+
+
+
+
+
+
+
+
