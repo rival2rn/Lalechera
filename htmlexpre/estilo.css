@@ -1,0 +1,8 @@
+.todo{
+ margin-left: auto;
+ margin-right: auto;   
+}
+.todo a:hover{
+    color: red;
+    text-decoration: none;
+}
